@@ -12,7 +12,7 @@ function updateNameValue(e) {
 }
 
 // URL to our Token Server
-const tokenServerURL = 'https://musing-engelbart-6ac384.netlify.app/api/token-generator';
+const tokenServerURL = 'https://dolby-io-token-server.netlify.app/api/token-generator';
 
 
 
