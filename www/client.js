@@ -12,7 +12,7 @@ function updateNameValue(e) {
 }
 
 // URL to our Token Server
-const tokenServerURL = 'musing-engelbart-6ac384.netlify.app';
+const tokenServerURL = 'https://musing-engelbart-6ac384.netlify.app/api/token-generator';
 
 
 
